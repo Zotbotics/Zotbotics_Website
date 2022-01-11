@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Zotbotics_Website/static/css/main.073c9b0a.css",
-    "main.js": "/Zotbotics_Website/static/js/main.77814290.js",
+    "main.js": "/Zotbotics_Website/static/js/main.341159bd.js",
     "static/js/787.420fb731.chunk.js": "/Zotbotics_Website/static/js/787.420fb731.chunk.js",
     "static/media/logo.svg": "/Zotbotics_Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Zotbotics_Website/index.html",
     "main.073c9b0a.css.map": "/Zotbotics_Website/static/css/main.073c9b0a.css.map",
-    "main.77814290.js.map": "/Zotbotics_Website/static/js/main.77814290.js.map",
+    "main.341159bd.js.map": "/Zotbotics_Website/static/js/main.341159bd.js.map",
     "787.420fb731.chunk.js.map": "/Zotbotics_Website/static/js/787.420fb731.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.77814290.js"
+    "static/js/main.341159bd.js"
   ]
 }
