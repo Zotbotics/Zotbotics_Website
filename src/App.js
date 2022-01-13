@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h1>Welcome to the new Zotbotics website!</h1>
+          <p>Hellow</p>
         </p>
         <a
           className="App-link"
