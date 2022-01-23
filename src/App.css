@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
@@ -22,6 +23,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  background-image: linear-gradient(rgb(0, 123, 160), white)
 }
 
 .App-link {
@@ -38,15 +40,30 @@
 }
 
 .Nav-bar {
-  background-color: lightblue;
+  background-color: rgb(0, 58, 97);
   position: fixed;
   width: 100%;
   top: 0;
   left: 0;
-  text-align: left;
   padding: 1em;
   font-family: Verdana;
   text-decoration: none;
-  color: black;
+  box-sizing: border-box;
+}
+
+.Nav-bar-links {
+  float: right;
+  padding-right: 1em;
+}
+
+
+.Nav-bar-text {
+  color: white;
+  text-decoration: none;
+  font-size: 0.5em;
+  padding-left: 4em;
+}
+
+.home-body {
   
 }
