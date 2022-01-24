@@ -1,3 +1,5 @@
+Visit our website here: https://zotbotics.github.io/Zotbotics_Website/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
